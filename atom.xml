@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://elisir516.github.io</id>
     <title>Gridea</title>
-    <updated>2019-09-17T23:39:12.140Z</updated>
+    <updated>2019-09-18T01:01:15.330Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://elisir516.github.io"/>
     <link rel="self" href="https://elisir516.github.io/atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>https://elisir516.github.io/images/avatar.png</logo>
     <icon>https://elisir516.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[第二个测试]]></title>
+        <id>https://elisir516.github.io/post/di-er-ge-ce-shi</id>
+        <link href="https://elisir516.github.io/post/di-er-ge-ce-shi">
+        </link>
+        <updated>2019-09-18T01:00:51.000Z</updated>
+        <content type="html"><![CDATA[<p><strong>瞄瞄</strong></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[test]]></title>
         <id>https://elisir516.github.io/post/test</id>
